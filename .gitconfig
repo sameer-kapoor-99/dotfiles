@@ -1,0 +1,6 @@
+[user]        
+name = Sameer Kapoor
+email = sameer@netspring.io
+username = sameer-kapoor-99
+[pull]
+	rebase = false 

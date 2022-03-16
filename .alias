@@ -1,0 +1,8 @@
+alias devdocker=~/work/netspring/tools/devdocker
+alias dx='devdocker exec --'
+alias dxi='devdocker exec -i --'
+alias dsh='devdocker shell'
+alias dport='devdocker portfwd'
+alias kctl='kubectl'
+alias dkctl='dxi kubectl'
+alias vi='nvim'
