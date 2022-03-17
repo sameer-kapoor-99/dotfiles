@@ -71,7 +71,8 @@ ZSH_THEME="robbyrussell"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git fzf brew colorize kubectl docker bazel)
-
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
